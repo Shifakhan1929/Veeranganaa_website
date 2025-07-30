@@ -139,7 +139,7 @@ nav a:hover{
  
   .hero-content{
     color: #F9DBBD;
-    margin-top: 30px;
+    margin-top: 19px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -284,6 +284,11 @@ nav a:hover{
     margin-bottom: 10px;
      }
     
+}
+.privacy {
+    margin-top: 320px;
+    font-size: 0.7rem;
+    margin-left: 10px;
 }
 
 
